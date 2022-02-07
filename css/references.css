@@ -1,0 +1,134 @@
+footer{
+ position: relative; 
+}
+
+#contactus{
+  position: relative; 
+  font-size: 3.64vw; 
+  left: 50px; 
+  top: -120px; 
+  font-family: 'DM Serif Display', serif;
+  z-index: 2; 
+  color: #ECF0F1; 
+  font-style: italic; 
+  letter-spacing: 2px; 
+            }
+            .cd a{
+                color:rgba(0,0,0,0.6); 
+                font-size: 2.6vh;
+            }
+            .cd{
+                margin-left: 30px; 
+                color: black ; 
+                letter-spacing: 2px;
+                padding-bottom: 50px; 
+                margin-top: -80px; 
+
+            }
+             h2{
+                font-weight: 800px; 
+                padding-bottom: 20px; 
+                margin-top: 20px; 
+                font-size: 1.5vw;
+            }
+            .cd p{
+                padding-bottom: 20px; 
+            }
+            .cd a:hover {
+                color: black; 
+            }
+            #learnmore{
+                padding-bottom: 70px;
+            }
+            h6{
+                text-align: center; 
+                margin-top: -5vh; 
+                margin-bottom: 5vh; 
+            }
+
+body{
+    background-color: #ECF0F1;}
+header, footer{
+    background-color: #457373; 
+    width: 100%; 
+    height: 5.4vw; 
+    padding: 0vh 19.8vh; 
+    position: relative; 
+    z-index: 5; 
+}
+header{
+    height: 15vh;
+}
+
+li, a {
+    font-weight: 500; 
+    font-size: 1.1vw; 
+    color: #ECF0F1; 
+    text-decoration: none; 
+}
+
+header, footer{
+    overflow-y: hidden;
+    display: flex; 
+    align-items: center; 
+    justify-content: justify;
+
+}
+#logofooter{ 
+    max-width:3.8vw; 
+    height: auto;
+    margin-left: 50%;
+    float:right; 
+}
+.logo {
+    max-width: 20vw;
+    width: 15vw; 
+    height: auto; 
+    margin-left: -3.12vw; 
+}
+.nav_links {
+    list-style:none; 
+    position: relative; 
+    max-width: 40vw;
+}
+.footer_links li {
+    display: inline-block; 
+    padding: 0vw 3.3vh;  
+    overflow: hidden;
+}
+.nav_links li{
+    display: inline-block; 
+    padding: 0vw 3.3vh; 
+    overflow: hidden; 
+    text-align: center;  
+}nav{
+    margin-right: auto; 
+    margin-left: auto; 
+}
+
+.nav_links, .footer_links, li a:hover {
+    color: black; 
+}
+.logo{
+    width: 8vw; 
+    height: auto;
+}
+ 
+p{
+ margin: 30px; 
+ font-weight: 600px; 
+ font-size: 2.34vw;
+}
+
+citations p{
+ font-size: 1.1vw; 
+ word-spacing: 2px;
+ margin-bottom: 0.8vh;
+}
+       
+citations a{
+ color: blue; 
+ font-weight: 300;
+ font-style: italic;
+ text-decoration: underline;
+            }
